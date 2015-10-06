@@ -1,0 +1,5 @@
+[Pusher]
+app_id=<app_id from pusher>
+key=<key for app from pusher>
+secret=<secret for app from pusher>
+salt=<salt string to generate channel names>
